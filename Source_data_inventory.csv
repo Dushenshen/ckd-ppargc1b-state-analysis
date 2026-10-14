@@ -1,0 +1,8 @@
+﻿source,role,scope,used_resources
+GSE254185,Human discovery,5 obstructed and 7 non-obstructed donor identifiers; main paired n=5,Public expression matrices and study annotations
+GSE195460,Initial human validation,5 DKD and 6 control RNA donors; main paired n=11,Public RNA H5 files; source-author barcode/sample mapping
+GSE183277,External human atlas,"36 donor identifiers; main paired n=34, including 13 CKD",Only deposited snCv3 counts and matching metadata
+GSE139107,Supporting mouse expression,3 pooled replicate identifiers per time point; descriptive,Day 14 and week 6 annotations; no new mouse experiments
+ENCSR458LPO,Descriptive regulatory link,Renal cortex interstitium; no direct adult PT target confirmation,"Thresholded linked annotation, not differential accessibility"
+UCSC hg38/mm10,Genome annotation and homology,RefGene and hg38-to-mm10 chain,"Coordinate annotation and mapping, not functional validation"
+MSigDB Hallmark,Transcriptional programs,Three named gene sets; exact lists in archive,Gene definitions with five fixed candidates excluded
